@@ -5,4 +5,4 @@ my first repository for OpenSource Software course
 # Hi 
 สวัสดีครับ ผม นาย พฤฒิชัย เอียดรอด
 IT223 รหัสนักศึกษา 361202360075 
-Rajamangala University of Technology Srivijaya Yai Campus
+Rajamangala University of Technology Srivijaya SaiYai Campus
